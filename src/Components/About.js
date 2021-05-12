@@ -27,26 +27,3 @@ function About() {
 }
 
 export default About;
-
-{
-  /*
-<Grid align = "center">
-      
-    <Card className = 'about' style={{ width :'20%', border : '1px solid ', borderRadius : '1px' }}>
-   <Card.Img variant="top" src="https://images.unsplash.com/photo-1620589025695-d6a796305be5?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80" width = '70%' />
-   <Card.Body>
-     <Card.Title>About</Card.Title>
-     <Card.Text>
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec dignissim lectus id mauris sodales egestas.
-     Praesent a tincidunt elit. Etiam ullamcorper quam et fermentum blandit.
-     </p> 
-      
-     </Card.Text>
-     
-   </Card.Body>
- </Card>
-
-</Grid>
-
-*/
-}
